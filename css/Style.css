@@ -30,10 +30,11 @@ h1
 	display: flex;
 	flex-direction: column;
 }
-/* .dress
+.dress
 {
-	order: -1;
-} */
+	display: flex;
+	flex-wrap: wrap;
+}
 .Materials
 {
 	width:200px;
